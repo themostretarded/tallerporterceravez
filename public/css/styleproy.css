@@ -1,0 +1,43 @@
+.fade {
+    opacity: 1;
+    transition: opacity .25s ease-in-out;
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
+}
+
+.fade:hover {
+    opacity: 0.5;
+}
+
+.jumbotronimg {
+    background-image: url("../img/movietheater-screen-seats.jpg");
+    background-color: #cccccc;
+}
+a:link {
+    text-decoration: none;
+    color : black;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    animation-fill-mode: forwards;
+    animation-name: cambios;
+    animation-duration: 1s;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+@keyframes cambios {
+    from {
+        background-color: white; color:black;
+    }
+    to {
+        background-color: #E0E0E0  ;color:White ;
+    }
+}

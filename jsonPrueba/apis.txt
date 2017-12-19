@@ -1,0 +1,6 @@
+https://api.myjson.com/bins/1dwuh3  -misterio
+https://api.myjson.com/bins/kqltz   -thriller
+https://api.myjson.com/bins/if0kn    -drama
+https://api.myjson.com/bins/j0g6f    -comedia
+https://api.myjson.com/bins/q5nfr    -accion
+https://api.myjson.com/bins/g1a5j   -horror
